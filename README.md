@@ -3,20 +3,23 @@ Busco uma oportunidade na área, por isso estou constantemente estudando para me
 
 - Estudando TypeScript e React
 
+<div>
+ <a href="www.linkedin.com/in/josuéleite">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+</div><br>
+
 <div align="center">
   <a href="https://github.com/josueleitejj">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=josueleitejj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueleitejj&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+### Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Josue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Josue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Josue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div><br>
 
-<div>
- <a href="www.linkedin.com/in/josuéleite">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a>
-</div>
+

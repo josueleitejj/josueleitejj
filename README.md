@@ -4,7 +4,7 @@ Busco uma oportunidade na área, por isso estou constantemente estudando para me
 - Estudando TypeScript e React
 
 <div>
- <a href="www.linkedin.com/in/josuéleite">
+ <a href="www.linkedin.com/in/JosuéLeite">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
  </a>
 </div><br>

@@ -1,4 +1,4 @@
-### Olá, sou o Josué!! Sou Desenvolvedor Front-End apaixonado por tecnologia e atuo com as linguagens HTML | CSS | JS.
+### Olá, sou o Josué!! Sou Desenvolvedor Front-End Jr, apaixonado por tecnologia e atuo com as linguagens HTML | CSS | JS.
 Busco uma oportunidade na área, por isso estou constantemente estudando para melhorar meus códigos.
 
 - Estudando TypeScript e React

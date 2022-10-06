@@ -10,10 +10,9 @@ Busco uma oportunidade na área, por isso estou constantemente estudando para me
 
 <div align="center">
   <a href="https://github.com/josueleitejj">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=josueleitejj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueleitejj&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
-
+ [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=josueleitejj&layout=compact)]
+  (https://github.com/josueleitejj/github-readme-stats)
+ 
 ### Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Josue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 

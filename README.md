@@ -1,7 +1,7 @@
 ### Olá, sou o Josué!! Sou Desenvolvedor Front-End Jr, apaixonado por tecnologia e atuo com as linguagens HTML | CSS | JS.
 Busco uma oportunidade na área, por isso estou constantemente estudando para melhorar meus códigos.
 
-- Estudando TypeScript e React
+- Estudando React!
 
 <div>
  <a href="https://www.linkedin.com/in/josuéleite" target="_blank">

@@ -4,9 +4,10 @@ Meu primeiro contato com Programação tem sido pela Alura, e estou ficando cada
 Tenho adquirido e aprimorado meus conhecimentos em HTML | CSS | JS | ReactJs | Git | Bootstrap diariamente. Pretendo me tornar um Dev Front-End.</div>
 
  ---------------------------------------------------------------------------------------------------------------------------------------
- <div align="center"> Vitrine Dev - https://cursos.alura.com.br/vitrinedev/josue-leite
+ <div align="center"> Vitrine Dev - https://cursos.alura.com.br/vitrinedev/josue-leite 
 
-
+ ---------------------------------------------------------------------------------------------------------------------------------------
+ 
 <div>
  <a href="https://www.linkedin.com/in/josuéleite" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -22,7 +23,11 @@ Tenho adquirido e aprimorado meus conhecimentos em HTML | CSS | JS | ReactJs | G
   <img align="center" alt="Josue-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img align="center" alt="Josue-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Josue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Josue-Tp" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Josue-Bt" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Josue-Fg" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="center" alt="Josue-Gt" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> 
+  <img align="center" alt="Josue-Rc" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
           
 </div><br>
 

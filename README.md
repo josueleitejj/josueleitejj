@@ -24,4 +24,6 @@ Tenho adquirido e aprimorado meus conhecimentos em HTML | CSS | JS | ReactJs | G
           
 </div><br>
 
+   
+  <div align="center"> Vitrine Dev - https://cursos.alura.com.br/vitrinedev/josue-leite
 
